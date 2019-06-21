@@ -1,6 +1,6 @@
 module.exports = class ShoppingCart {
   constructor() {
-    this.items = [];
+    this.items = []
   }
 
   add(item) {
