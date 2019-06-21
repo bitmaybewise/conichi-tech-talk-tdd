@@ -1,0 +1,15 @@
+{
+  "name": "conichi-tech-talk-tdd",
+  "version": "1.0.0",
+  "description": "First conichi tech talk about TDD",
+  "main": "index.js",
+  "repository": "https://github.com/hlmerscher/conichi-tech-talk-tdd",
+  "author": "Hercules Lemke Merscher",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
